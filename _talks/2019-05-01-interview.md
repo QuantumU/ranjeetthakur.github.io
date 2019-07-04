@@ -8,6 +8,4 @@ date: "2019-08-30"
 location: "Delhi, India"
 ---
 
-[More information here](http://exampleurl.com)
-
-Read on Medium -> https://medium.com/data-deft/your-ds-story-ranjeet-singh-roadzen-a52ef81e0fc8
+[Read on Medium](https://medium.com/data-deft/your-ds-story-ranjeet-singh-roadzen-a52ef81e0fc8)
