@@ -3,7 +3,7 @@ title: "Gender Classification Techniques-From
 Machine Learning to Deep Learning"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about demographics estimation using Computer Vision'
 date: 2009-10-01
 venue: 'IJCTA'
 paperurl: 'https://pdfs.semanticscholar.org/82cc/888b3c7a36a35abee01210928acd2b959c66.pdf'
