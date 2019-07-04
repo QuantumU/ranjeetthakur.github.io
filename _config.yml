@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ranjeet Singh"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Machine Learning and Artificial Intelligence"
   location         : "New Delhi"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         :"https://www.linkedin.com/in/ranjeet-singh-332b2310a/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
