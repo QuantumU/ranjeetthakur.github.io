@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 Data Scientist and Researcher with both industrial and academic research experience in Machine Learning and
-Deep Learning. I'm especially fascinated about Deep Learning inspired Computer Vision.
+Deep Learning, especially fascinated about Deep Learning inspired Computer Vision.
